@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1063676522565",
+    "firebase_url": "https://dam-gianlucabattistin-default-rtdb.firebaseio.com",
+    "project_id": "dam-gianlucabattistin",
+    "storage_bucket": "dam-gianlucabattistin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063676522565:android:75589d20315cddf513f32c",
+        "android_client_info": {
+          "package_name": "com.gbm.sem3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD118oqzv2j6XPv9gT2UQZrPliVhBMLHm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
